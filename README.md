@@ -1,6 +1,6 @@
 # twitter_python_search_example
 pip install TwitterSearch or easy_install TwitterSearch
-twitter search client with gender and location guessing
+#twitter search client with gender and location guessing
 to use gender and geo location, install the following:
 pip install gender-detector
 pip install geopy
