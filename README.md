@@ -1,3 +1,5 @@
+$ pip install -U textblob
+$ python -m textblob.download_corpora
 # twitter_python_search_example
 pip install TwitterSearch or easy_install TwitterSearch
 #twitter search client with gender and location guessing
