@@ -16,5 +16,5 @@
 <h4> File System </h4> 
 <h4> Elasticsearch. </h4>
 
-### I am sure same this could easily be changed to work with any NoSQL or other database/sink.
+### I am sure this could easily be changed to work with any NoSQL or other database/sink.
 
